@@ -1,6 +1,9 @@
 <div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Omkareshwar%20Chaubey&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20%7C%20Python%20Developer&descAlignY=60" />
 
-# Hi 👋 I'm Garv
+<div align="center">
+
+# Hi 👋 I'm Omkar
 
 ### 💻 Computer Science Student | 🛡️ Future Cybersecurity Engineer | 🐍 Python Developer
 
@@ -15,7 +18,7 @@
 ```bash
 > whoami
 
-Name      : Garv
+Name      : Omkareshwar Chaubey
 Education : B.Tech CSE
 Focus     : Cybersecurity
 Learning  : Python • Networking • Linux • Git
@@ -124,17 +127,17 @@ OS        : Windows + Linux
 ## 💀 Terminal
 
 ```text
-garv@github:~$ whoami
+omkar@github:~$ whoami
 Computer Science Student
 
-garv@github:~$ skills
+omkar@github:~$ skills
 Python
 Git
 Linux
 Networking
 Cybersecurity
 
-garv@github:~$ current_status
+omkar@github:~$ current_status
 Learning...
 ```
 <p align="center">
