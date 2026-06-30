@@ -126,18 +126,14 @@ AI / ML         ███░░░░░░░░░░░  20%
 ## ⌬ GITHUB DASHBOARD
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Omkareshwar-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=A349A4&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkareshwar-17&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=A349A4&currStreakLabel=00F0FF" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkareshwar-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Omkareshwar-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=A349A4&text_color=c9d1d9&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Omkareshwar-17&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=A349A4&currStreakLabel=00F0FF" width="48%" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkareshwar-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&cache_seconds=1800" width="48%" alt="Top Languages" />
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:A349A4,50:00C9FF,100:00F0FF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:A349A4,50:00C9FF,100:00F0FF" />
 </div>
 
 ## ⌬ NETWORK ACTIVITY GRAPH
