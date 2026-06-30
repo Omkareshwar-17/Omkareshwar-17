@@ -11,22 +11,21 @@
 
 </div>
 
----
-
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 ```bash
-> whoami
-
-Name      : Omkareshwar Chaubey
-Education : B.Tech CSE
-Focus     : Cybersecurity
-Learning  : Python • Networking • Linux • Git
-Goal      : Become an Ethical Hacker
-OS        : Windows + Linux
+omkar@security-lab:~$ cat profile.json
+{
+  "name": "Omkareshwar Chaubey",
+  "education": "B.Tech CSE",
+  "focus": "Cybersecurity / Ethical Hacking",
+  "operating_systems": ["Linux", "Windows"],
+  "status": "Actively building & breaking things"
+}
 ```
 
 ---
+
 
 # 🚀 Tech Stack
 
