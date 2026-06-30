@@ -29,7 +29,7 @@ OS        : Windows + Linux
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux,html,css,js,mysql,bash"/>
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,linux,html,bash"/>
 
 </p>
 
