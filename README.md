@@ -88,27 +88,33 @@ OS        : Windows + Linux
 
 ⭐ Student Record Management System
 
-⭐ Networking Notes
-
-⭐ Cybersecurity Notes
+⭐ ATM
 
 ⭐ Python Mini Projects
 
 ---
 
-# 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Omkareshwar-17">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+  <a href="https://github.com/Omkareshwar-17">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/omkareshwar-chaubey-b81346397">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/Chau_bey17">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/>
+  </a>
 </p>
 
----
-
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Omkareshwar-17">GitHub</a> •
+  <a href="https://www.linkedin.com/in/omkareshwar-chaubey-b81346397">LinkedIn</a> •
+  <a href="https://www.instagram.com/Chau_bey17">Instagram</a>
+</p>
 
 ### ⚡ "Code. Learn. Secure. Repeat."
 
