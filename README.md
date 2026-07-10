@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,25:A349A4,60:00C9FF,100:00F0FF&text=OMKARESHWAR%20CHAUBEY&fontAlign=57&fontAlignY=43&desc=Going%20with%20the%20flow%20%F0%9F%8C%8A&descAlign=57&descAlignY=62&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,25:A349A4,60:00C9FF,100:00F0FF&text=OMKARESHWAR%20CHAUBEY&fontSize=52&fontAlign=50&fontAlignY=42&desc=Going%20with%20the%20flow%20🌊&descAlign=50&descAlignY=63&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-### 💻 CSE Student | 🛡️ Future Cybersecurity Engineer | 🐍 Python Developer
+</div>
+<div align="center">
+
+💻 <b>CSE Student</b> |
+🛡️ <b>Future Cybersecurity Engineer</b> |
+🐍 <b>Python Developer</b>
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=820&lines=Establishing+secure+connection...;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Linux+Kernel+Learner+%F0%9F%90%A7;Decrypting+future+projects...;Hack+%E2%80%A2+Learn+%E2%80%A2+Secure+%E2%80%A2+Repeat" alt="Typing SVG" />
 
@@ -11,6 +18,7 @@
 </div>
 
 <br/>
+<div align="center">
 
 ## ⌬ USER ROOT PROFILE
 
@@ -84,34 +92,36 @@ AI / ML         ███░░░░░░░░░░░  20%
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:A349A4,50:00C9FF,100:00F0FF" />
 </div>
 
-## ⌬ ACTIVE PROCESSES
+<div align="center">
+
+<h2>⌬ ACTIVE PROCESSES</h2>
 
 <table width="100%">
 <tr>
 <td width="25%" align="center">
 
-**🐍 PYTHON_OPS**
+<b>🐍 PYTHON_OPS</b>
 <br/>
 <sub>Scripting & automation builds</sub>
 
 </td>
 <td width="25%" align="center">
 
-**🛡️ SEC_JOURNAL**
+<b>🛡️ SEC_JOURNAL</b>
 <br/>
 <sub>Pentesting & exploit research</sub>
 
 </td>
 <td width="25%" align="center">
 
-**🌐 NET_NOTES**
+<b>🌐 NET_NOTES</b>
 <br/>
 <sub>Protocols & infrastructure logs</sub>
 
 </td>
 <td width="25%" align="center">
 
-**🤖 AI_LAB**
+<b>🤖 AI_LAB</b>
 <br/>
 <sub>Machine learning experiments</sub>
 
@@ -119,8 +129,8 @@ AI / ML         ███░░░░░░░░░░░  20%
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:00F0FF,50:00C9FF,100:A349A4" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:00C9FF,100:A349A4" width="100%"/>
+
 </div>
 
 ## ⌬ GITHUB DASHBOARD
@@ -190,8 +200,6 @@ AI / ML         ███░░░░░░░░░░░  20%
 <div align="center">
 
 ## ⌬ CONNECT WITH ME
-
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Omkareshwar-17">
