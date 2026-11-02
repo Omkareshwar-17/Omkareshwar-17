@@ -380,25 +380,79 @@ Collection of Python scripts, utilities, automation experiments and development 
 
 ---
 
+<!-- ============================================================ -->
+<!--               FIXED GITHUB SURVEILLANCE                     -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-## 🖥️ BATCOMPUTER // INTELLIGENCE
+<h2>🖥️ BATCOMPUTER // INTELLIGENCE</h2>
 
-### `GITHUB SURVEILLANCE SYSTEM`
+<h3><code>GITHUB SURVEILLANCE SYSTEM</code></h3>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Omkareshwar-17&show_icons=true&hide_border=true&bg_color=050505&title_color=F5C518&icon_color=F5C518&text_color=EAEAEA" height="170"/>
+<table width="72%">
 
-<img src="https://streak-stats.demolab.com/?user=Omkareshwar-17&hide_border=true&background=050505&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=EAEAEA&dates=6D7478&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170"/>
+<tr>
+
+<td width="33%" align="center">
+
+<h3>🦇 OPERATOR</h3>
+
+<b>OMKARESHWAR</b>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkareshwar-17&layout=compact&hide_border=true&bg_color=050505&title_color=F5C518&text_color=EAEAEA" height="150"/>
+<code>ONLINE</code>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>⚡ SYSTEM</h3>
+
+<b>BATCOMPUTER</b>
+
+<br><br>
+
+<code>ACTIVE</code>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🛡️ NETWORK</h3>
+
+<b>GITHUB</b>
+
+<br><br>
+
+<code>MONITORED</code>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<code>SECURE CONNECTION ESTABLISHED // GITHUB NODE ACTIVE</code>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GITHUB_NODE-ONLINE-F5C518?style=for-the-badge&labelColor=050505"/>
+&nbsp;
+<img src="https://img.shields.io/badge/THREAT_LEVEL-NOMINAL-6D7478?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
 ---
+
+<!-- ============================================================ -->
+<!--              CUSTOM BATMOBILE CONTRIBUTIONS                 -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -409,34 +463,20 @@ Collection of Python scripts, utilities, automation experiments and development 
 <br>
 
 <img
-  src="https://raw.githubusercontent.com/Omkareshwar-17/Omkareshwar-17/main/batmobile.svg"
+  src="https://raw.githubusercontent.com/Omkareshwar-17/Omkareshwar-17/output/batmobile-contributions.svg"
   width="100%"
-  alt="Batmobile Night Patrol"
+  alt="Batmobile Contribution Night Patrol"
 />
 
 <br>
 
 <h3>🟡 <code>BATMOBILE // PATROL ACTIVE</code></h3>
 
-<code>GOTHAM NETWORK // MONITORING</code>
+<code>REAL GITHUB ACTIVITY // GOTHAM NETWORK MONITORING</code>
 
 <br><br>
 
 <b>THE NIGHT ISN'T OVER YET.</b>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌃 GOTHAM // ACTIVITY MAP
-
-### `MONITORING DEVELOPMENT ACTIVITY`
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkareshwar-17&bg_color=050505&color=F5C518&line=F5C518&point=FFFFFF&area=true&area_color=25220F&hide_border=true" width="100%"/>
 
 </div>
 
@@ -457,7 +497,7 @@ Initializing Gotham surveillance network...
 CONNECTING TO SATELLITE ............... DONE
 CONNECTING TO WAYNETECH ............... DONE
 CONNECTING TO BATCAVE ................. DONE
-CONNECTING TO GOTHAM NETWORK .......... DONE
+CONNECTING TO GITHUB NODE ............. DONE
 
 Scanning...
 
@@ -466,6 +506,7 @@ Scanning...
 NETWORK STATUS
 
 GOTHAM NODE ................ ONLINE
+GITHUB NODE ................ ONLINE
 THREATS .................... MONITORED
 BATCOMPUTER ................. ACTIVE
 OPERATOR .................... OMKARESHWAR
@@ -612,6 +653,7 @@ GOTHAM IS STILL AWAKE.
                        K N I G H T
 
                     OF CYBERSECURITY
+
 
                   OMKARESHWAR CHAUBEY
 
