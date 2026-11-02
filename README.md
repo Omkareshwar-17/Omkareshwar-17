@@ -408,7 +408,11 @@ Collection of Python scripts, utilities, automation experiments and development 
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Omkareshwar-17/Omkareshwar-17/main/batmobile.svg" width="100%" alt="Batmobile Night Patrol Animation"/>
+<img
+  src="https://raw.githubusercontent.com/Omkareshwar-17/Omkareshwar-17/main/batmobile.svg"
+  width="100%"
+  alt="Batmobile Night Patrol"
+/>
 
 <br>
 
