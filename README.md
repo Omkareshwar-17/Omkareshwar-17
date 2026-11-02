@@ -167,9 +167,11 @@
 </div>
 
 ---
+
 <div align="center">
 
 <h2>🌃 GOTHAM // OPERATIONS</h2>
+
 <h3><code>FOUR DIVISIONS // ONE BATCOMPUTER</code></h3>
 
 <table width="72%">
@@ -177,27 +179,41 @@
 <tr>
 
 <td width="50%" align="center">
+
 <h3>🛡️ SECURITY</h3>
+
 <b>CRIME LAB</b>
+
 <br><br>
+
 Pentesting<br>
 Vulnerability Analysis<br>
 Threat Research<br>
 Security Engineering
+
 <br><br>
+
 <code>STATUS // ACTIVE</code>
+
 </td>
 
 <td width="50%" align="center">
+
 <h3>🐍 DEVELOPMENT</h3>
+
 <b>WAYNETECH LAB</b>
+
 <br><br>
+
 Python<br>
 C Programming<br>
 Automation<br>
 Backend Development
+
 <br><br>
+
 <code>STATUS // ACTIVE</code>
+
 </td>
 
 </tr>
@@ -205,27 +221,41 @@ Backend Development
 <tr>
 
 <td width="50%" align="center">
+
 <h3>🐧 SYSTEMS</h3>
+
 <b>BATCOMPUTER CORE</b>
+
 <br><br>
+
 Linux<br>
 Operating Systems<br>
 Networking<br>
 Infrastructure
+
 <br><br>
+
 <code>STATUS // EXPANDING</code>
+
 </td>
 
 <td width="50%" align="center">
+
 <h3>🧠 INTELLIGENCE</h3>
+
 <b>DETECTIVE MODE</b>
+
 <br><br>
+
 Machine Learning<br>
 Algorithms<br>
 Security AI<br>
 Experimentation
+
 <br><br>
+
 <code>STATUS // RESEARCH</code>
+
 </td>
 
 </tr>
@@ -233,6 +263,10 @@ Experimentation
 </table>
 
 </div>
+
+---
+
+<div align="center">
 
 ## 🗂️ BATCOMPUTER // CASE FILES
 
@@ -368,61 +402,23 @@ Collection of Python scripts, utilities, automation experiments and development 
 
 <div align="center">
 
-## 🦇 BATCAVE // CONTRIBUTION GRID
+<h2>🦇 BATCAVE // NIGHT PATROL</h2>
 
-### `GOTHAM NIGHT PATROL`
-
-```text
-                         GOTHAM CITY
-
-                              ☁
-
-                                      ☁
-
-                             🦇
-
-
-          │██│                  │████│
-       │█████│       │███│      │████│
-       │ ▪ ▪ │    │██████│      │ ▪ ▪│
-   │█████████│    │ ▪ ▪ ▪│   │███████│
-   │ ▪ ▪ ▪ ▪ │    │ ▪ ▪ ▪│   │ ▪ ▪ ▪ │
-   │ ▪ ▪ ▪ ▪ │    │ ▪ ▪ ▪│   │ ▪ ▪ ▪ │
-═══╧═════════╧════╧══════╧═══╧═══════╧════
-
-                     G O T H A M
-```
-
-### `365 DAYS OF NIGHT PATROL`
+<h3><code>GOTHAM CONTRIBUTION SURVEILLANCE</code></h3>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Omkareshwar-17/Omkareshwar-17/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Omkareshwar-17/Omkareshwar-17/main/batmobile.svg" width="100%" alt="Batmobile Night Patrol Animation"/>
 
 <br>
 
-```text
-                             ╲     ╱
-                              ╲   ╱
-                         .─────────────.
-                      .´                 `.
-                    .'                     '.
-                   /                         \
-                  │           █▄ ▄█           │
-                  │          ▄█████▄          │
-                  │        ▀█████████▀        │
-                  │          ▀█████▀          │
-                   \                         /
-                    '.                     .'
-                      `.                 .´
-                         `─────────────´
+<h3>🟡 <code>BATMOBILE // PATROL ACTIVE</code></h3>
 
-                           BAT-SIGNAL
+<code>GOTHAM NETWORK // MONITORING</code>
 
-                       GOTHAM // SECURE
-```
+<br><br>
 
-### 🦇 `THE NIGHT ISN'T OVER YET.`
+<b>THE NIGHT ISN'T OVER YET.</b>
 
 </div>
 
@@ -572,7 +568,6 @@ OMKARESHWAR CHAUBEY
 ┌──(omkareshwar㉿batcomputer)-[~/]
 └─$ cat mission.txt
 
-
         LEARN WHAT OTHERS IGNORE.
 
         INVESTIGATE WHAT OTHERS OVERLOOK.
@@ -609,21 +604,14 @@ GOTHAM IS STILL AWAKE.
 ```text
                               🦇
 
-
                      T H E   D A R K
-
                        K N I G H T
-
 
                     OF CYBERSECURITY
 
-
-
                   OMKARESHWAR CHAUBEY
 
-
                            //
-
 
                  BATCOMPUTER STATUS
 
