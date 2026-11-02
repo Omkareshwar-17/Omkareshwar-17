@@ -1,264 +1,755 @@
+<!-- ============================================================ -->
+<!--          OMKARESHWAR CHAUBEY // BATCOMPUTER                 -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,25:A349A4,60:00C9FF,100:00F0FF&text=OMKARESHWAR%20CHAUBEY&fontSize=52&fontAlign=50&fontAlignY=42&desc=Going%20with%20the%20flow%20🌊&descAlign=50&descAlignY=63&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="./assetsbatman.jpg" width="100%" alt="Batman Banner"/>
+
+<br><br>
+
+<h1>OMKARESHWAR CHAUBEY</h1>
+
+<h3>🦇 BATCOMPUTER // ONLINE 🦇</h3>
+
+<b>CYBERSECURITY • DEVELOPMENT • SYSTEMS • INTELLIGENCE</b>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2300&pause=700&color=F5C518&center=true&vCenter=true&width=900&lines=INITIALIZING+BATCOMPUTER...;IDENTITY%3A+OMKARESHWAR+CHAUBEY;ACCESSING+WAYNETECH+DATABASE...;LOADING+CYBERSECURITY+MODULES...;SCANNING+GOTHAM+NETWORK...;THREAT+ANALYSIS+ACTIVE...;ACCESS+GRANTED.;WELCOME+BACK%2C+OMKARESHWAR." alt="Batcomputer Terminal"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BATCOMPUTER-ONLINE-F5C518?style=for-the-badge&labelColor=050505"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ACCESS_LEVEL-ROOT-6D7478?style=for-the-badge&labelColor=050505"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GOTHAM_NETWORK-MONITORED-F5C518?style=for-the-badge&labelColor=050505"/>
+
+<br><br>
+
+<i>"It's not who I am underneath, but what I do that defines me."</i>
+
+<br><br>
 
 </div>
+
+---
+
 <div align="center">
 
-💻 <b>CSE Student</b> |
-🛡️ <b>Future Cybersecurity Engineer</b> |
-🐍 <b>Python Developer</b>
+## 🦇 BATCOMPUTER // IDENTITY
 
 </div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=820&lines=Establishing+secure+connection...;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Linux+Kernel+Learner+%F0%9F%90%A7;Decrypting+future+projects...;Hack+%E2%80%A2+Learn+%E2%80%A2+Secure+%E2%80%A2+Repeat" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:A349A4,50:00C9FF,100:00F0FF" />
-
-</div>
-
-<br/>
-<div align="center">
-
-## ⌬ USER ROOT PROFILE
 
 ```bash
-┌──(omkar㉿security-ops)-[~/]
-└─$ cat core_profile.json
+┌──[ BATCAVE // TERMINAL ]
+│
+│  Establishing encrypted connection...
+│
+├── OPERATOR ............. OMKARESHWAR CHAUBEY
+├── DESIGNATION .......... COMPUTER SCIENCE ENGINEER
+├── ACADEMIC TRACK ....... B.TECH CSE
+├── SPECIALIZATION ....... CYBERSECURITY & PENTESTING
+├── PRIMARY LANGUAGE ..... PYTHON
+├── ENVIRONMENT .......... LINUX / WINDOWS / WSL
+├── LOCATION ............. CLASSIFIED
+├── ACCESS LEVEL ......... ROOT
+│
+└── STATUS ............... ACTIVE
 ```
+
 ```json
 {
   "identity": "Omkareshwar Chaubey",
+
   "academic_track": "B.Tech Computer Science Engineering",
+
   "specialization": "Cybersecurity & Pentesting",
-  "environments": ["Linux (Kali/Ubuntu)", "Windows Subsystem for Linux"],
-  "mission_parameters": "Actively building secure systems & hunting exploits",
-  "status": "Online - Monitoring Network..."
+
+  "domains": [
+    "Cybersecurity",
+    "Software Development",
+    "Computer Systems",
+    "Networking"
+  ],
+
+  "current_focus": [
+    "Python",
+    "Linux",
+    "Networking",
+    "Security Engineering"
+  ],
+
+  "mission": "Learn. Build. Investigate. Secure.",
+
+  "batcomputer_status": "ONLINE"
 }
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:00F0FF,50:00C9FF,100:A349A4" />
+
+### `IDENTITY VERIFIED // ACCESS GRANTED`
+
 </div>
 
-## ⌬ SYSTEM STATUS
-
-<table width="100%">
-<tr><td>
-
-CYBERSECURITY   ████████████░░  80%
-PYTHON          ██████████░░░░  70%
-LINUX           ███████░░░░░░░  45%
-NETWORKING      █████░░░░░░░░░  35%
-AI / ML         ███░░░░░░░░░░░  20%
-
-</td></tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:A349A4,50:00C9FF,100:00F0FF" />
-</div>
+---
 
 <div align="center">
 
-## ⌬ TECH STACK
-
-<img src="https://skillicons.dev/icons?i=python,c,git,github,linux,bash,vscode,html,css&theme=dark" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:00F0FF,50:00C9FF,100:A349A4" />
+## ⚡ BATSUIT // SYSTEM DIAGNOSTICS
 
 </div>
 
-## ⌬ MISSION LOG
-
-```bash
-┌──(omkar㉿security-ops)-[~/]
-└─$ tracker --status
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                    BATSUIT DIAGNOSTICS                           ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   CYBERSECURITY    ████████████████░░░░       80%               ║
+║                                                                  ║
+║   PYTHON           ██████████████░░░░░░       70%               ║
+║                                                                  ║
+║   LINUX            █████████░░░░░░░░░░░       45%               ║
+║                                                                  ║
+║   NETWORKING       ███████░░░░░░░░░░░░░       35%               ║
+║                                                                  ║
+║   AI / ML          ████░░░░░░░░░░░░░░░░       20%               ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║               SYSTEM STATUS // OPERATIONAL                       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-| OBJECTIVE | STATE |
-|:--|:--:|
-| Learn Python | ✅ COMPLETE |
-| Git & Version Control | ✅ COMPLETE |
-| C Programming | ✅ COMPLETE |
-| Linux Internals | ⬜ IN PROGRESS |
-| Networking Fundamentals | ⬜ QUEUED |
-| Web Security | ⬜ QUEUED |
-| CTF Challenges | ⬜ QUEUED |
-| Reverse Engineering | ⬜ QUEUED |
-| OSCP Track | ⬜ LOCKED |
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:A349A4,50:00C9FF,100:00F0FF" />
-</div>
+---
 
 <div align="center">
 
-<h2>⌬ ACTIVE PROCESSES</h2>
+## 🛠️ WAYNETECH // ARSENAL
 
-<table width="100%">
-<tr>
-<td width="25%" align="center">
+### `TOOLS • TECHNOLOGIES • SYSTEMS`
 
-<b>🐍 PYTHON_OPS</b>
-<br/>
-<sub>Scripting & automation builds</sub>
+<br>
 
-</td>
-<td width="25%" align="center">
+<img src="https://skillicons.dev/icons?i=python,c,linux,bash,git,github,vscode,html,css&theme=dark"/>
 
-<b>🛡️ SEC_JOURNAL</b>
-<br/>
-<sub>Pentesting & exploit research</sub>
+<br><br>
 
-</td>
-<td width="25%" align="center">
+<img src="https://img.shields.io/badge/PYTHON-PRIMARY_TOOL-F5C518?style=for-the-badge&labelColor=090909&logo=python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LINUX-SYSTEM_CORE-F5C518?style=for-the-badge&labelColor=090909&logo=linux&logoColor=000000"/>
+<img src="https://img.shields.io/badge/BASH-TERMINAL-6D7478?style=for-the-badge&labelColor=090909&logo=gnubash&logoColor=FFFFFF"/>
 
-<b>🌐 NET_NOTES</b>
-<br/>
-<sub>Protocols & infrastructure logs</sub>
+<br>
 
-</td>
-<td width="25%" align="center">
-
-<b>🤖 AI_LAB</b>
-<br/>
-<sub>Machine learning experiments</sub>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:00C9FF,100:A349A4" width="100%"/>
+<img src="https://img.shields.io/badge/GIT-VERSION_CONTROL-6D7478?style=for-the-badge&labelColor=090909&logo=git&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-CASE_ARCHIVES-6D7478?style=for-the-badge&labelColor=090909&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NETWORKING-SURVEILLANCE-F5C518?style=for-the-badge&labelColor=090909"/>
 
 </div>
 
-## ⌬ GITHUB DASHBOARD
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Omkareshwar-17&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=A349A4&currStreakLabel=00F0FF" width="400" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:A349A4,50:00C9FF,100:00F0FF" />
-</div>
-## ⌬ NETWORK ACTIVITY GRAPH
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkareshwar-17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=A349A4&point=ffffff" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:00F0FF,50:00C9FF,100:A349A4" />
-</div>
-
-## ⌬ CONTRIBUTION SNAKE
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Omkareshwar-17/Omkareshwar-17/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:A349A4,50:00C9FF,100:00F0FF" />
-</div>
-
-## ⌬ FEATURED PROJECTS
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 🎬 Movie Recommendation System
-<sub>Content-based recommendation engine built in Python</sub>
-
-</td>
-<td width="50%">
-
-### 🗃️ Student Record Management System
-<sub>CRUD-based academic record manager</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏦 ATM Management System
-<sub>Simulated banking transaction logic in Python</sub>
-
-</td>
-<td width="50%">
-
-### 🐍 Python Mini Projects
-<sub>Collection of small utilities, scripts & experiments</sub>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:00F0FF,50:00C9FF,100:A349A4" />
-</div>
+---
 
 <div align="center">
 
-## ⌬ CONNECT WITH ME
-
-<p align="center">
-  <a href="https://github.com/Omkareshwar-17">
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/omkareshwar-chaubey-b81346397">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/Chau_bey17">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Omkareshwar-17">GitHub</a> •
-  <a href="https://www.linkedin.com/in/omkareshwar-chaubey-b81346397">LinkedIn</a> •
-  <a href="https://www.instagram.com/Chau_bey17">Instagram</a>
-</p>
-
-### ⚡ "Code. Learn. Secure. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=Omkareshwar-17&label=PROFILE%20VIEWS&color=A349A4&style=for-the-badge" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=100%25&color=0:A349A4,50:00C9FF,100:00F0FF" />
+## 🎯 BATCOMPUTER // MISSIONS
 
 </div>
-
-## ⌬ EXIT TERMINAL
 
 ```bash
-┌──(omkar㉿security-ops)-[~/]
-└─$ whoami
-Computer Science Student
+┌──(omkareshwar㉿batcomputer)-[~/MISSIONS]
+└─$ mission --status
 
-┌──(omkar㉿security-ops)-[~/]
-└─$ skills --list
+[01] PYTHON .............................. [ COMPLETE ]
+
+[02] GIT & VERSION CONTROL ............... [ COMPLETE ]
+
+[03] C PROGRAMMING ....................... [ COMPLETE ]
+
+[04] LINUX INTERNALS ..................... [ IN PROGRESS ]
+
+[05] NETWORKING FUNDAMENTALS ............. [ IN PROGRESS ]
+
+[06] WEB SECURITY ........................ [ QUEUED ]
+
+[07] CTF OPERATIONS ...................... [ QUEUED ]
+
+[08] REVERSE ENGINEERING ................. [ LOCKED ]
+
+[09] EXPLOIT DEVELOPMENT ................. [ LOCKED ]
+
+[10] OSCP TRACK .......................... [ CLASSIFIED ]
+```
+
+<div align="center">
+
+### `MISSION STATUS // ONGOING`
+
+**THE NIGHT ISN'T OVER YET.**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌃 GOTHAM // OPERATIONS
+
+### `FOUR DIVISIONS // ONE BATCOMPUTER`
+
+</div>
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🛡️ SECURITY
+
+**CRIME LAB**
+
+Pentesting
+
+Vulnerability Analysis
+
+Threat Research
+
+Security Engineering
+
+`STATUS // ACTIVE`
+
+</td>
+
+<td width="50%" align="center">
+
+### 🐍 DEVELOPMENT
+
+**WAYNETECH LAB**
+
 Python
-Git
+
+C Programming
+
+Automation
+
+Backend Development
+
+`STATUS // ACTIVE`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🐧 SYSTEMS
+
+**BATCOMPUTER CORE**
+
 Linux
+
+Operating Systems
+
 Networking
-Cybersecurity
 
-┌──(omkar㉿security-ops)-[~/]
-└─$ sudo apt install future
-Reading package lists... Done
-Building dependency tree... Done
-Future Successfully Installed.
+Infrastructure
 
-┌──(omkar㉿security-ops)-[~/]
-└─$ status --check
-Online - Monitoring Network...
+`STATUS // EXPANDING`
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧠 INTELLIGENCE
+
+**DETECTIVE MODE**
+
+Machine Learning
+
+Algorithms
+
+Security AI
+
+Experimentation
+
+`STATUS // RESEARCH`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 🗂️ BATCOMPUTER // CASE FILES
+
+### `WAYNE ENTERPRISES // RESTRICTED DATABASE`
+
+</div>
+
+```bash
+┌──(omkareshwar㉿batcomputer)-[~/CASE_FILES]
+└─$ ls --classified
+
+CASE_001     CYBERSHIELD
+
+CASE_002     INTELLIGENT_PAGE_REPLACEMENT
+
+CASE_003     MOVIE_RECOMMENDATION_SYSTEM
+
+CASE_004     PYTHON_OPERATIONS
+```
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🦇 CASE // 001
+
+## CYBERSHIELD
+
+**MINI ANTIVIRUS & MALWARE DETECTION**
+
+```text
+CLASSIFICATION    CYBERSECURITY
+
+LANGUAGE          PYTHON
+
+STATUS            DEVELOPMENT
+
+THREAT ANALYSIS   ████████░░
+```
+
+Educational mini-antivirus prototype designed to scan files, identify known signatures, detect suspicious patterns and manage potential threats.
+
+**`CASE STATUS // ACTIVE`**
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ CASE // 002
+
+## INTELLIGENT MEMORY
+
+**PAGE REPLACEMENT SYSTEM**
+
+```text
+CLASSIFICATION    SYSTEMS
+
+LANGUAGE          PYTHON
+
+STATUS            ACTIVE
+
+INTELLIGENCE      ███████░░░
+```
+
+Adaptive memory-management system comparing FIFO, LRU and intelligent page-replacement strategies.
+
+**`CASE STATUS // INVESTIGATING`**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎬 CASE // 003
+
+## MOVIE INTELLIGENCE
+
+**RECOMMENDATION ENGINE**
+
+```text
+CLASSIFICATION    MACHINE LEARNING
+
+LANGUAGE          PYTHON
+
+STATUS            COMPLETE
+```
+
+Content-based movie recommendation engine designed to identify similar movies using their characteristics.
+
+**`CASE STATUS // CLOSED`**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐍 CASE // 004
+
+## PYTHON OPERATIONS
+
+**DEVELOPMENT ARCHIVE**
+
+```text
+CLASSIFICATION    DEVELOPMENT
+
+LANGUAGE          PYTHON
+
+STATUS            EXPANDING
+```
+
+Collection of Python scripts, utilities, automation experiments and development projects.
+
+**`CASE STATUS // ONGOING`**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 🖥️ BATCOMPUTER // INTELLIGENCE
+
+### `GITHUB SURVEILLANCE SYSTEM`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Omkareshwar-17&show_icons=true&hide_border=true&bg_color=050505&title_color=F5C518&icon_color=F5C518&text_color=EAEAEA" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=Omkareshwar-17&hide_border=true&background=050505&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=EAEAEA&dates=6D7478&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkareshwar-17&layout=compact&hide_border=true&bg_color=050505&title_color=F5C518&text_color=EAEAEA" height="150"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🦇 BATCAVE // CONTRIBUTION GRID
+
+### `GOTHAM NIGHT PATROL`
+
+```text
+                         GOTHAM CITY
+
+                              ☁
+
+                                      ☁
+
+
+                             🦇
+
+
+          │██│                  │████│
+       │█████│       │███│      │████│
+       │ ▪ ▪ │    │██████│      │ ▪ ▪│
+   │█████████│    │ ▪ ▪ ▪│   │███████│
+   │ ▪ ▪ ▪ ▪ │    │ ▪ ▪ ▪│   │ ▪ ▪ ▪ │
+   │ ▪ ▪ ▪ ▪ │    │ ▪ ▪ ▪│   │ ▪ ▪ ▪ │
+═══╧═════════╧════╧══════╧═══╧═══════╧════
+
+                     G O T H A M
+```
+
+### `365 DAYS OF NIGHT PATROL`
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Omkareshwar-17/Omkareshwar-17/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br>
+
+```text
+                             ╲     ╱
+                              ╲   ╱
+                         .─────────────.
+                      .´                 `.
+                    .'                     '.
+                   /                         \
+                  │           █▄ ▄█           │
+                  │          ▄█████▄          │
+                  │        ▀█████████▀        │
+                  │          ▀█████▀          │
+                   \                         /
+                    '.                     .'
+                      `.                 .´
+                         `─────────────´
+
+                           BAT-SIGNAL
+
+                       GOTHAM // SECURE
+```
+
+### 🦇 `THE NIGHT ISN'T OVER YET.`
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌃 GOTHAM // ACTIVITY MAP
+
+### `MONITORING DEVELOPMENT ACTIVITY`
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkareshwar-17&bg_color=050505&color=F5C518&line=F5C518&point=FFFFFF&area=true&area_color=25220F&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚨 BATCOMPUTER // THREAT ANALYSIS
+
+</div>
+
+```bash
+┌──(omkareshwar㉿batcomputer)-[~/GOTHAM]
+└─$ surveillance --scan-city
+
+
+Initializing Gotham surveillance network...
+
+
+CONNECTING TO SATELLITE ............... DONE
+
+CONNECTING TO WAYNETECH ............... DONE
+
+CONNECTING TO BATCAVE ................. DONE
+
+CONNECTING TO GOTHAM NETWORK .......... DONE
+
+
+Scanning...
+
+
+████████████████████████████████████████ 100%
+
+
+NETWORK STATUS
+
+
+GOTHAM NODE ................ ONLINE
+
+THREATS .................... MONITORED
+
+BATCOMPUTER ................. ACTIVE
+
+OPERATOR .................... OMKARESHWAR
+
+STATUS ...................... ONLINE
+```
+
+```bash
+┌──(omkareshwar㉿batcomputer)-[~/GOTHAM]
+└─$ nmap future.omkareshwar
+
+
+Starting BatScan...
+
+
+PORT        STATE        SERVICE
+
+22/tcp      OPEN         LINUX_CORE
+
+80/tcp      OPEN         DEVELOPMENT
+
+443/tcp     OPEN         CYBERSECURITY
+
+1337/tcp    FILTERED     CLASSIFIED
+
+3000/tcp    OPEN         EXPERIMENTS
+
+8080/tcp    OPEN         INTELLIGENCE
+
+9001/tcp    UNKNOWN      FUTURE_PROJECT
+
+
+Scan complete.
+
+
+Threats detected ............ 0
+
+Systems monitored ........... 7
+
+Curiosity ................... CRITICAL
+
+Learning process ............ RUNNING
+
+Future status ............... UNKNOWN
+```
+
+---
+
+<div align="center">
+
+## 🔦 ACTIVATE // BAT-SIGNAL
+
+### `ESTABLISH SECURE COMMUNICATION`
+
+<br>
+
+<a href="https://github.com/Omkareshwar-17">
+<img src="https://skillicons.dev/icons?i=github" height="52" alt="GitHub"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/omkareshwar-chaubey-b81346397">
+<img src="https://skillicons.dev/icons?i=linkedin" height="52" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/Chau_bey17">
+<img src="https://skillicons.dev/icons?i=instagram" height="52" alt="Instagram"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Omkareshwar-17"><b>GITHUB</b></a>
+
+&nbsp;&nbsp; 🦇 &nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/omkareshwar-chaubey-b81346397"><b>LINKEDIN</b></a>
+
+&nbsp;&nbsp; 🦇 &nbsp;&nbsp;
+
+<a href="https://www.instagram.com/Chau_bey17"><b>INSTAGRAM</b></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Omkareshwar-17&label=BATCAVE%20VISITORS&color=F5C518&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🦇 BATCOMPUTER // FINAL PROTOCOL
+
+</div>
+
+```bash
+┌──(omkareshwar㉿batcomputer)-[~/]
+└─$ sudo systemctl status gotham
+
+
+● gotham.service
+
+     Loaded: loaded
+
+     Active: active (running)
+
+
+     Surveillance ............... ACTIVE
+
+     Threat Intelligence ........ ACTIVE
+
+     Development ................ ACTIVE
+
+     Learning ................... ACTIVE
+
+
+
+┌──(omkareshwar㉿batcomputer)-[~/]
+└─$ whoami
+
+
+OMKARESHWAR CHAUBEY
+
+
+
+┌──(omkareshwar㉿batcomputer)-[~/]
+└─$ cat mission.txt
+
+
+        LEARN WHAT OTHERS IGNORE.
+
+        INVESTIGATE WHAT OTHERS OVERLOOK.
+
+        BUILD WHAT DOES NOT EXIST.
+
+        SECURE WHAT MUST BE PROTECTED.
+
+
+
+┌──(omkareshwar㉿batcomputer)-[~/]
+└─$ future --status
+
+
+UNKNOWN.
+
+
+
+┌──(omkareshwar㉿batcomputer)-[~/]
+└─$ shutdown
+
+
+ERROR:
+
+BATCOMPUTER CANNOT SHUT DOWN.
+
+GOTHAM IS STILL AWAKE.
+
+
+
+┌──(omkareshwar㉿batcomputer)-[~/]
+└─$ _
 ```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00F0FF,50:00C9FF,100:A349A4&section=footer&text=Connection%20Secure.%20Transmission%20Complete.&fontSize=19&fontColor=ffffff&animation=twinkling" width="100%"/>
+<br>
 
-**See You In Cyberspace 👾**
+```text
+                              🦇
+
+
+                     T H E   D A R K
+
+                       K N I G H T
+
+
+                    OF CYBERSECURITY
+
+
+
+                  OMKARESHWAR CHAUBEY
+
+
+                           //
+
+
+                 BATCOMPUTER STATUS
+
+                       ● ONLINE
+```
+
+## 🦇 `CODE • INVESTIGATE • DEFEND • REPEAT` 🦇
+
+### `THE NIGHT ISN'T OVER YET.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:F5C518,25:151515,60:080808,100:000000&section=footer&text=GOTHAM%20IS%20WATCHING&fontSize=27&fontColor=F5C518&animation=fadeIn" width="100%"/>
+
+### `BATCOMPUTER // END TRANSMISSION`
 
 </div>
