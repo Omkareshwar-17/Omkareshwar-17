@@ -1,40 +1,123 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="220"
+     viewBox="0 0 1200 220">
+
   <rect width="1200" height="220" fill="#0d1117"/>
 
-  <text x="600" y="60"
-        text-anchor="middle"
-        fill="#F5C518"
-        font-family="monospace"
-        font-size="22">
+  <text
+    x="600"
+    y="45"
+    text-anchor="middle"
+    fill="#F5C518"
+    font-family="monospace"
+    font-size="22">
     BATCOMPUTER // NIGHT PATROL
   </text>
 
+  <line
+    x1="0"
+    y1="175"
+    x2="1200"
+    y2="175"
+    stroke="#30363d"
+    stroke-width="3"/>
+
   <g>
+
     <animateTransform
       attributeName="transform"
+      attributeType="XML"
       type="translate"
-      from="-150 0"
+      from="-220 0"
       to="1250 0"
       dur="6s"
       repeatCount="indefinite"/>
 
+    <!-- Car body -->
     <path
-      d="M30 145 L55 125 L120 120 L150 140 L180 145 L180 160 L20 160 Z"
+      d="M20 145
+         L45 132
+         L70 105
+         L125 100
+         L160 125
+         L205 135
+         L220 150
+         L210 160
+         L25 160
+         Z"
+      fill="#111111"
+      stroke="#F5C518"
+      stroke-width="3"/>
+
+    <!-- Cockpit -->
+    <path
+      d="M78 108
+         L98 88
+         L130 90
+         L153 124
+         Z"
+      fill="#20252b"
+      stroke="#6e7681"
+      stroke-width="2"/>
+
+    <!-- Rear fin -->
+    <path
+      d="M30 143
+         L18 95
+         L58 133
+         Z"
       fill="#111111"
       stroke="#F5C518"
       stroke-width="2"/>
 
-    <circle cx="55" cy="160" r="16" fill="#050505" stroke="#F5C518" stroke-width="3"/>
-    <circle cx="145" cy="160" r="16" fill="#050505" stroke="#F5C518" stroke-width="3"/>
+    <!-- Front fin -->
+    <path
+      d="M177 133
+         L205 105
+         L198 140
+         Z"
+      fill="#111111"
+      stroke="#F5C518"
+      stroke-width="2"/>
 
-    <circle cx="183" cy="145" r="5" fill="#F5C518"/>
+    <!-- Wheels -->
+    <circle
+      cx="65"
+      cy="160"
+      r="19"
+      fill="#050505"
+      stroke="#6e7681"
+      stroke-width="4"/>
+
+    <circle
+      cx="175"
+      cy="160"
+      r="19"
+      fill="#050505"
+      stroke="#6e7681"
+      stroke-width="4"/>
+
+    <circle cx="65" cy="160" r="6" fill="#F5C518"/>
+    <circle cx="175" cy="160" r="6" fill="#F5C518"/>
+
+    <!-- Headlight -->
+    <circle
+      cx="214"
+      cy="143"
+      r="6"
+      fill="#F5C518"/>
+
   </g>
 
-  <text x="600" y="205"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-family="monospace"
-        font-size="14">
+  <text
+    x="600"
+    y="205"
+    text-anchor="middle"
+    fill="#8b949e"
+    font-family="monospace"
+    font-size="14">
     GOTHAM // MONITORING
   </text>
+
 </svg>
