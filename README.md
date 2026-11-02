@@ -62,9 +62,7 @@
 ```json
 {
   "identity": "Omkareshwar Chaubey",
-
   "academic_track": "B.Tech Computer Science Engineering",
-
   "specialization": "Cybersecurity & Pentesting",
 
   "domains": [
@@ -82,7 +80,6 @@
   ],
 
   "mission": "Learn. Build. Investigate. Secure.",
-
   "batcomputer_status": "ONLINE"
 }
 ```
@@ -99,31 +96,15 @@
 
 ## ⚡ BATSUIT // SYSTEM DIAGNOSTICS
 
-</div>
+<br>
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║                    BATSUIT DIAGNOSTICS                           ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   CYBERSECURITY    ████████████████░░░░       80%               ║
-║                                                                  ║
-║   PYTHON           ██████████████░░░░░░       70%               ║
-║                                                                  ║
-║   LINUX            █████████░░░░░░░░░░░       45%               ║
-║                                                                  ║
-║   NETWORKING       ███████░░░░░░░░░░░░░       35%               ║
-║                                                                  ║
-║   AI / ML          ████░░░░░░░░░░░░░░░░       20%               ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║               SYSTEM STATUS // OPERATIONAL                       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="./batman.jpg" width="100%" alt="Batsuit Diagnostics"/>
+
+<br>
+
+### `SYSTEM STATUS // OPERATIONAL`
+
+</div>
 
 ---
 
@@ -164,23 +145,16 @@
 └─$ mission --status
 
 [01] PYTHON .............................. [ COMPLETE ]
-
 [02] GIT & VERSION CONTROL ............... [ COMPLETE ]
-
 [03] C PROGRAMMING ....................... [ COMPLETE ]
 
 [04] LINUX INTERNALS ..................... [ IN PROGRESS ]
-
 [05] NETWORKING FUNDAMENTALS ............. [ IN PROGRESS ]
 
 [06] WEB SECURITY ........................ [ QUEUED ]
-
 [07] CTF OPERATIONS ...................... [ QUEUED ]
-
 [08] REVERSE ENGINEERING ................. [ LOCKED ]
-
 [09] EXPLOIT DEVELOPMENT ................. [ LOCKED ]
-
 [10] OSCP TRACK .......................... [ CLASSIFIED ]
 ```
 
@@ -193,53 +167,37 @@
 </div>
 
 ---
-
 <div align="center">
 
-## 🌃 GOTHAM // OPERATIONS
+<h2>🌃 GOTHAM // OPERATIONS</h2>
+<h3><code>FOUR DIVISIONS // ONE BATCOMPUTER</code></h3>
 
-### `FOUR DIVISIONS // ONE BATCOMPUTER`
-
-</div>
-
-<table width="100%">
+<table width="72%">
 
 <tr>
 
 <td width="50%" align="center">
-
-### 🛡️ SECURITY
-
-**CRIME LAB**
-
-Pentesting
-
-Vulnerability Analysis
-
-Threat Research
-
+<h3>🛡️ SECURITY</h3>
+<b>CRIME LAB</b>
+<br><br>
+Pentesting<br>
+Vulnerability Analysis<br>
+Threat Research<br>
 Security Engineering
-
-`STATUS // ACTIVE`
-
+<br><br>
+<code>STATUS // ACTIVE</code>
 </td>
 
 <td width="50%" align="center">
-
-### 🐍 DEVELOPMENT
-
-**WAYNETECH LAB**
-
-Python
-
-C Programming
-
-Automation
-
+<h3>🐍 DEVELOPMENT</h3>
+<b>WAYNETECH LAB</b>
+<br><br>
+Python<br>
+C Programming<br>
+Automation<br>
 Backend Development
-
-`STATUS // ACTIVE`
-
+<br><br>
+<code>STATUS // ACTIVE</code>
 </td>
 
 </tr>
@@ -247,48 +205,34 @@ Backend Development
 <tr>
 
 <td width="50%" align="center">
-
-### 🐧 SYSTEMS
-
-**BATCOMPUTER CORE**
-
-Linux
-
-Operating Systems
-
-Networking
-
+<h3>🐧 SYSTEMS</h3>
+<b>BATCOMPUTER CORE</b>
+<br><br>
+Linux<br>
+Operating Systems<br>
+Networking<br>
 Infrastructure
-
-`STATUS // EXPANDING`
-
+<br><br>
+<code>STATUS // EXPANDING</code>
 </td>
 
 <td width="50%" align="center">
-
-### 🧠 INTELLIGENCE
-
-**DETECTIVE MODE**
-
-Machine Learning
-
-Algorithms
-
-Security AI
-
+<h3>🧠 INTELLIGENCE</h3>
+<b>DETECTIVE MODE</b>
+<br><br>
+Machine Learning<br>
+Algorithms<br>
+Security AI<br>
 Experimentation
-
-`STATUS // RESEARCH`
-
+<br><br>
+<code>STATUS // RESEARCH</code>
 </td>
 
 </tr>
 
 </table>
 
----
-
-<div align="center">
+</div>
 
 ## 🗂️ BATCOMPUTER // CASE FILES
 
@@ -301,11 +245,8 @@ Experimentation
 └─$ ls --classified
 
 CASE_001     CYBERSHIELD
-
 CASE_002     INTELLIGENT_PAGE_REPLACEMENT
-
 CASE_003     MOVIE_RECOMMENDATION_SYSTEM
-
 CASE_004     PYTHON_OPERATIONS
 ```
 
@@ -323,11 +264,8 @@ CASE_004     PYTHON_OPERATIONS
 
 ```text
 CLASSIFICATION    CYBERSECURITY
-
 LANGUAGE          PYTHON
-
 STATUS            DEVELOPMENT
-
 THREAT ANALYSIS   ████████░░
 ```
 
@@ -347,11 +285,8 @@ Educational mini-antivirus prototype designed to scan files, identify known sign
 
 ```text
 CLASSIFICATION    SYSTEMS
-
 LANGUAGE          PYTHON
-
 STATUS            ACTIVE
-
 INTELLIGENCE      ███████░░░
 ```
 
@@ -375,9 +310,7 @@ Adaptive memory-management system comparing FIFO, LRU and intelligent page-repla
 
 ```text
 CLASSIFICATION    MACHINE LEARNING
-
 LANGUAGE          PYTHON
-
 STATUS            COMPLETE
 ```
 
@@ -397,9 +330,7 @@ Content-based movie recommendation engine designed to identify similar movies us
 
 ```text
 CLASSIFICATION    DEVELOPMENT
-
 LANGUAGE          PYTHON
-
 STATUS            EXPANDING
 ```
 
@@ -447,7 +378,6 @@ Collection of Python scripts, utilities, automation experiments and development 
                               ☁
 
                                       ☁
-
 
                              🦇
 
@@ -522,36 +452,23 @@ Collection of Python scripts, utilities, automation experiments and development 
 ┌──(omkareshwar㉿batcomputer)-[~/GOTHAM]
 └─$ surveillance --scan-city
 
-
 Initializing Gotham surveillance network...
 
-
 CONNECTING TO SATELLITE ............... DONE
-
 CONNECTING TO WAYNETECH ............... DONE
-
 CONNECTING TO BATCAVE ................. DONE
-
 CONNECTING TO GOTHAM NETWORK .......... DONE
-
 
 Scanning...
 
-
 ████████████████████████████████████████ 100%
-
 
 NETWORK STATUS
 
-
 GOTHAM NODE ................ ONLINE
-
 THREATS .................... MONITORED
-
 BATCOMPUTER ................. ACTIVE
-
 OPERATOR .................... OMKARESHWAR
-
 STATUS ...................... ONLINE
 ```
 
@@ -559,38 +476,24 @@ STATUS ...................... ONLINE
 ┌──(omkareshwar㉿batcomputer)-[~/GOTHAM]
 └─$ nmap future.omkareshwar
 
-
 Starting BatScan...
-
 
 PORT        STATE        SERVICE
 
 22/tcp      OPEN         LINUX_CORE
-
 80/tcp      OPEN         DEVELOPMENT
-
 443/tcp     OPEN         CYBERSECURITY
-
 1337/tcp    FILTERED     CLASSIFIED
-
 3000/tcp    OPEN         EXPERIMENTS
-
 8080/tcp    OPEN         INTELLIGENCE
-
 9001/tcp    UNKNOWN      FUTURE_PROJECT
-
 
 Scan complete.
 
-
 Threats detected ............ 0
-
 Systems monitored ........... 7
-
 Curiosity ................... CRITICAL
-
 Learning process ............ RUNNING
-
 Future status ............... UNKNOWN
 ```
 
@@ -650,30 +553,20 @@ Future status ............... UNKNOWN
 ┌──(omkareshwar㉿batcomputer)-[~/]
 └─$ sudo systemctl status gotham
 
-
 ● gotham.service
-
      Loaded: loaded
-
      Active: active (running)
 
-
      Surveillance ............... ACTIVE
-
      Threat Intelligence ........ ACTIVE
-
      Development ................ ACTIVE
-
      Learning ................... ACTIVE
-
 
 
 ┌──(omkareshwar㉿batcomputer)-[~/]
 └─$ whoami
 
-
 OMKARESHWAR CHAUBEY
-
 
 
 ┌──(omkareshwar㉿batcomputer)-[~/]
@@ -689,25 +582,20 @@ OMKARESHWAR CHAUBEY
         SECURE WHAT MUST BE PROTECTED.
 
 
-
 ┌──(omkareshwar㉿batcomputer)-[~/]
 └─$ future --status
-
 
 UNKNOWN.
 
 
-
 ┌──(omkareshwar㉿batcomputer)-[~/]
 └─$ shutdown
-
 
 ERROR:
 
 BATCOMPUTER CANNOT SHUT DOWN.
 
 GOTHAM IS STILL AWAKE.
-
 
 
 ┌──(omkareshwar㉿batcomputer)-[~/]
